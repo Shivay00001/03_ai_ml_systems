@@ -1,5 +1,7 @@
 # 03_ai_ml_systems
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 > Retrieval-Augmented Generation (RAG) system for ingesting documents, building embeddings, retrieving context intelligently, and generating grounded AI answers.
 
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
